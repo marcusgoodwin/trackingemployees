@@ -9,15 +9,13 @@
     },
     "repository": {
       "type": "git",
-      "url": "git+https://github.com/Ikomeda/trackmyemps.git"
+      "url": ""
     },
     "keywords": [],
-    "author": "",
     "license": "ISC",
     "bugs": {
-      "url": "https://github.com/Ikomeda/trackmyemps/issues"
+      "url": ""
     },
-    "homepage": "https://github.com/Ikomeda/trackmyemps#readme",
     "dependencies": {
       "express": "^4.18.2",
       "inquirer": "^8.2.4",

@@ -17,7 +17,7 @@ VALUES
 ("Full Stack Engineer", 156000, 3);
 
 -- Inserting employee data
-INSERT INTO employees (first_name, last_name, role_id, manager_id)
+INSERT INTO employees (last_name, first_name, role_id, manager_id)
 VALUES
 ("Goodwin", "Marcus", 1, null),
 ("Parker", "Payton", 2, 1),

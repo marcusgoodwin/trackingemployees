@@ -20,3 +20,6 @@ The creator's email is mwgoodwin2000@gmail.com
 
 ## Github
 The creator's github is www.github.com/marcusgoodwin
+
+## Walk Through Video
+https://drive.google.com/file/d/1Zck6Tw_cyaOS_o4CxWU6B2ZAyCK54skK/view
